@@ -1,0 +1,12 @@
+[package]
+name = "ruspotify"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+crossterm = "0.29.0"
+dotenv = "0.15.0"
+ratatui = "0.29.0"
+rspotify = "0.15.2"
+tokio = "1.48.0"
